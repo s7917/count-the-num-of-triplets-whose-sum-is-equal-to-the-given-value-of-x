@@ -1,0 +1,1 @@
+# count-the-num-of-triplets-whose-sum-is-equal-to-the-given-value-of-x
